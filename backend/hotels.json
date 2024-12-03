@@ -1,0 +1,370 @@
+[
+    {
+      "name": "The Oberoi Udaivilas",
+      "images": [
+        "https://example.com/images/oberoi-udaivilas1.jpg",
+        "https://example.com/images/oberoi-udaivilas2.jpg"
+      ],
+      "location": {
+        "city": "Udaipur",
+        "address": "Lake Pichola, Udaipur, Rajasthan"
+      },
+      "price": 40000,
+      "rating": 5,
+      "amenities": [
+        "Heritage Property",
+        "Infinity Pool",
+        "Spa"
+      ],
+      "description": "A royal retreat offering stunning views of Lake Pichola.",
+      "rooms": [
+        {
+          "type": "Suite",
+          "capacity": 2,
+          "price": 50000,
+          "available": true
+        },
+        {
+          "type": "Deluxe",
+          "capacity": 4,
+          "price": 45000,
+          "available": true
+        }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "Taj Mahal Palace",
+      "images": [
+        "https://example.com/images/taj-mahal-palace1.jpg",
+        "https://example.com/images/taj-mahal-palace2.jpg"
+      ],
+      "location": {
+        "city": "Mumbai",
+        "address": "Apollo Bandar, Colaba, Mumbai"
+      },
+      "price": 25000,
+      "rating": 4.9,
+      "amenities": [
+        "Sea View",
+        "Fine Dining",
+        "Luxury Spa"
+      ],
+      "description": "Iconic luxury hotel overlooking the Gateway of India.",
+      "rooms": [
+        {
+          "type": "Standard",
+          "capacity": 2,
+          "price": 25000,
+          "available": true
+        },
+         {
+          "type": "Suite",
+          "capacity": 4,
+          "price": 40000,
+          "available": true
+        }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Leela Palace",
+      "images": [
+        "https://example.com/images/leela-palace1.jpg",
+        "https://example.com/images/leela-palace2.jpg"
+      ],
+      "location": {
+        "city": "New Delhi",
+        "address": "Chanakyapuri, Diplomatic Enclave, New Delhi"
+      },
+      "price": 18000,
+      "rating": 4.8,
+      "amenities": [
+        "Private Pool",
+        "Luxury Suites",
+        "Spa"
+      ],
+      "description": "Experience royal elegance in the heart of New Delhi.",
+      "rooms":[
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 18000,
+              "available": true
+          },
+          {
+              "type": "Deluxe",
+              "capacity": 4,
+              "price": 25000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "ITC Grand Chola",
+      "images": [
+        "https://example.com/images/itc-grand-chola1.jpg",
+        "https://example.com/images/itc-grand-chola2.jpg"
+      ],
+      "location": {
+        "city": "Chennai",
+        "address": "Guindy, Chennai, Tamil Nadu"
+      },
+      "price": 15000,
+      "rating": 4.7,
+      "amenities": [
+        "Heritage Design",
+        "Pool",
+        "Fine Dining"
+      ],
+      "description": "A magnificent blend of luxury and South Indian heritage.",
+      "rooms": [
+        {
+          "type": "Standard",
+          "capacity": 2,
+          "price": 15000,
+          "available": true
+        },
+        {
+          "type": "Deluxe",
+          "capacity": 4,
+          "price": 20000,
+          "available": true
+        }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "Evolve Back",
+      "images": [
+        "https://example.com/images/evolve-back1.jpg",
+        "https://example.com/images/evolve-back2.jpg"
+      ],
+      "location": {
+        "city": "Coorg",
+        "address": "Chikkana Halli Estate, Coorg, Karnataka"
+      },
+      "price": 22000,
+      "rating": 4.9,
+      "amenities": [
+        "Plantation Views",
+        "Private Pool",
+        "Nature Trails"
+      ],
+      "description": "A serene retreat nestled in the lush coffee plantations of Coorg.",
+      "rooms": [
+          {
+              "type": "Suite",
+              "capacity": 2,
+              "price": 22000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Gateway Hotel",
+      "images": [
+        "https://example.com/images/gateway-hotel1.jpg",
+        "https://example.com/images/gateway-hotel2.jpg"
+      ],
+      "location": {
+        "city": "Agra",
+        "address": "Fatehabad Road, Agra, Uttar Pradesh"
+      },
+      "price": 8000,
+      "rating": 4.5,
+      "amenities": [
+        "Taj Mahal View",
+        "Pool",
+        "Spa"
+      ],
+      "description": "A comfortable stay with stunning views of the Taj Mahal.",
+      "rooms": [
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 8000,
+              "available": true
+          },
+          {
+              "type": "Deluxe",
+              "capacity": 4,
+              "price": 12000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Serai Chikmagalur",
+      "images": [
+        "https://example.com/images/serai-chikmagalur1.jpg",
+        "https://example.com/images/serai-chikmagalur2.jpg"
+      ],
+      "location": {
+        "city": "Chikmagalur",
+        "address": "Mugthihalli Post, Chikmagalur, Karnataka"
+      },
+      "price": 14000,
+      "rating": 4.8,
+      "amenities": [
+        "Luxury Villas",
+        "Coffee Estate",
+        "Infinity Pool"
+      ],
+      "description": "A tranquil escape amidst the coffee estates of Chikmagalur.",
+      "rooms": [
+          {
+              "type": "Suite",
+              "capacity": 2,
+              "price": 14000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Fern Gir Forest Resort",
+      "images": [
+        "https://example.com/images/fern-gir1.jpg",
+        "https://example.com/images/fern-gir2.jpg"
+      ],
+      "location": {
+        "city": "Gir",
+        "address": "Gir Forest, Sasan Gir, Gujarat"
+      },
+      "price": 12000,
+      "rating": 4.6,
+      "amenities": [
+        "Jungle Safaris",
+        "Pool",
+        "Eco-Friendly Resort"
+      ],
+      "description": "Explore the wilderness of Gir National Park with luxurious comforts.",
+      "rooms": [
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 12000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Windflower Resort",
+      "images": [
+        "https://example.com/images/windflower1.jpg",
+        "https://example.com/images/windflower2.jpg"
+      ],
+      "location": {
+        "city": "Mysore",
+        "address": "Maharanapratap Road, Mysore, Karnataka"
+      },
+      "price": 9000,
+      "rating": 4.4,
+      "amenities": [
+        "Ayurvedic Spa",
+        "Private Villas",
+        "Nature Walks"
+      ],
+      "description": "A serene getaway with luxurious amenities in Mysore.",
+      "rooms": [
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 9000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "The Lalit Grand Palace",
+      "images": [
+        "https://example.com/images/lalit-grand-palace1.jpg",
+        "https://example.com/images/lalit-grand-palace2.jpg"
+      ],
+      "location": {
+        "city": "Srinagar",
+        "address": "Gupkar Road, Srinagar, Jammu & Kashmir"
+      },
+      "price": 18000,
+      "rating": 4.8,
+      "amenities": [
+        "Lake View",
+        "Heritage Architecture",
+        "Luxury Suites"
+      ],
+      "description": "A palatial stay overlooking the breathtaking Dal Lake.",
+      "rooms": [
+          {
+              "type": "Suite",
+              "capacity": 2,
+              "price": 18000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "Le Meridien",
+      "images": [
+        "https://example.com/images/le-meridien1.jpg",
+        "https://example.com/images/le-meridien2.jpg"
+      ],
+      "location": {
+        "city": "Kochi",
+        "address": "Maradu, Kochi, Kerala"
+      },
+      "price": 14000,
+      "rating": 4.7,
+      "amenities": [
+        "Backwater Views",
+        "Spa",
+        "Fine Dining"
+      ],
+      "description": "A luxury retreat by the serene backwaters of Kerala.",
+      "rooms": [
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 14000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    },
+    {
+      "name": "Club Mahindra",
+      "images": [
+        "https://example.com/images/club-mahindra1.jpg",
+        "https://example.com/images/club-mahindra2.jpg"
+      ],
+      "location": {
+        "city": "Ooty",
+        "address": "Sheddon Road, Ooty, Tamil Nadu"
+      },
+      "price": 7000,
+      "rating": 4.5,
+      "amenities": [
+        "Hill Views",
+        "Bonfire",
+        "Adventure Activities"
+      ],
+      "description": "A cozy hill retreat amidst the lush Nilgiris.",
+      "rooms": [
+          {
+              "type": "Standard",
+              "capacity": 2,
+              "price": 7000,
+              "available": true
+          }
+      ],
+      "bookings": []
+    }
+  ]
+  
+
